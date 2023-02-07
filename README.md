@@ -10,10 +10,10 @@ The Calculator Application is a simple calculator that allows users to perform m
 
 Key Parts of the Code:
 
-calculate function: This function takes an expression as an argument and returns the result of the calculation by using the eval function.
-operators list: This list contains the valid operators that the user can use in their calculations.
-while loop: This loop allows the user to repeatedly enter calculations until they decide to exit the application by entering 'exit'.
-try-except block: This block is used to handle any errors that may occur during the calculation process. If an error occurs, the user is prompted to try again.
+- calculate function: This function takes an expression as an argument and returns the result of the calculation by using the eval function.
+- operators list: This list contains the valid operators that the user can use in their calculations.
+- while loop: This loop allows the user to repeatedly enter calculations until they decide to exit the application by entering 'exit'.
+- try-except block: This block is used to handle any errors that may occur during the calculation process. If an error occurs, the user is prompted to try again.
 
 Design Decisions:
 
