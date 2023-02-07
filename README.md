@@ -30,4 +30,5 @@ I learned that even simple applications like this can be useful and have a lot o
 Additional Resources:
 
 Python documentation: https://docs.python.org/3/
+
 Stack Overflow: https://stackoverflow.com/
